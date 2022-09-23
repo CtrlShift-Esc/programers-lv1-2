@@ -1,1 +1,1 @@
-# programers-lv1-2
+# 약수의 합
